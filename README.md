@@ -3,6 +3,7 @@ It is integrated with google firebase for real time database management.
 It uses APIs to fetch and stream various movies and web series.
 It also supports watch party feature to watch shows together with your friends and family.
 
-Login Page:-
-  
+Pictures of the individual pages are uploaded in pictures folder
+
+
 
